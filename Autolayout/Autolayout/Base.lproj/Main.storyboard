@@ -154,6 +154,7 @@
                             <mask key="constraints">
                                 <exclude reference="D5U-nK-vZ9"/>
                                 <exclude reference="paJ-Nf-Cgv"/>
+                                <exclude reference="9Zk-De-Cbc"/>
                                 <exclude reference="IOy-s9-l1p"/>
                                 <exclude reference="LDb-f6-KSu"/>
                                 <exclude reference="VbM-Mh-dJG"/>
@@ -163,7 +164,6 @@
                                 <exclude reference="R3f-xN-qMQ"/>
                                 <exclude reference="qSH-94-wtW"/>
                                 <exclude reference="xTg-6s-Yve"/>
-                                <exclude reference="9Zk-De-Cbc"/>
                             </mask>
                         </variation>
                         <variation key="heightClass=regular">
@@ -172,6 +172,8 @@
                                 <include reference="D5U-nK-vZ9"/>
                                 <exclude reference="RZq-w7-vdj"/>
                                 <include reference="paJ-Nf-Cgv"/>
+                                <exclude reference="25C-nL-TsC"/>
+                                <include reference="9Zk-De-Cbc"/>
                                 <exclude reference="E12-ss-vtQ"/>
                                 <include reference="VbM-Mh-dJG"/>
                                 <include reference="W2N-pQ-aOk"/>
@@ -185,8 +187,6 @@
                                 <exclude reference="fV0-Jb-gHd"/>
                                 <include reference="qSH-94-wtW"/>
                                 <include reference="xTg-6s-Yve"/>
-                                <exclude reference="25C-nL-TsC"/>
-                                <include reference="9Zk-De-Cbc"/>
                             </mask>
                         </variation>
                     </view>
@@ -201,7 +201,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="109" y="54.75"/>
+            <point key="canvasLocation" x="109" y="54"/>
         </scene>
     </scenes>
     <resources>
